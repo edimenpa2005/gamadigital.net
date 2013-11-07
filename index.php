@@ -52,32 +52,37 @@
 	</br>
 	Imagite el sitio web empresarial integra, blog, foros, redes sociales, video, correo empresarial, todo trabajando para ti
 	</br> 
+	SEO y Posicionamiento pago para que tu sitio esten en buscadores importantes con palabras clave relevantes
+	</br> 
 	Usamos	Marketing online para promocionar tus productos o servicios
 	</br>
 	Existen varias formas de incluir su empresa en internet Sabe como hacerlo Nosotros si Que estes aqui es prueba de ello Podemos utilizar las mismas técnicas y estrategias para que su empresa o Ud. este en Internet y mejore sus ventas
 
-
-	
 </div>
 <section id="contenedor">
 	<section id="principal">
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		
 
 		<article>
-			&lt;article&gt;
+			VIDEO DE PRESENTACION
 		</article>
 
 	</section>
-	<aside>&lt;article&gt; </aside>
+	<aside> Formulario de Contacto </aside>
 	
+	<section id="productos">
+		
+
+		<article>
+			lista de nuestros servicios con imagenes
+		</article>
+
+	</section>
 </section>
 <footer>
-	&lt;footer&gt;
+	Menu de opciones
+	Redes sociales
+	Back link
 </footer>
 
 
