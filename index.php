@@ -13,79 +13,79 @@
 </head>
 
 <body>
-<header>
-	<!-- Encabezado tiene que tiene que tener 3 divs-->
-	<?php 
-	// Los identificadores y las clases se parecen, usamos identificadores para dar propiedades a un solo elemento, y clases para un dar propiedades a un grupo de elementos
 
-	 ?>
-<!--Nesecitamos 3 divs para el header	-->
-<div id="logo">
-	<!-- <a href="#"><img src="css/img/logo.png" width="75" height="75" alt="Colegio San Gabriel" id="ilogo"></a> -->
-</div>
-<div id="titulo">
+<!-- Primera Etapa texto Plano -->
 <h1>Gama Digital</h1>
-<span>Hoy es el momento</span>
-</div>
-<div id="identificacion"><p>Usted a ingresado como</p></div>
+<h2>Bienvenidos</h2>
+<p>Gama Digital es un equipo de trabajo que se especializa en la creación de sitios web eficientes, eonómicos y de rápida implementación</p>
+<p>Contamos con una estrategia "ganadora" que le permitira tener una importante presencia en internet que le ayudara a vender sus productos y servicios</p>
+<h3>En que consiste nuestra estrategia</h3>
+<p>Basiamente nosotros le ayudamos a empezar de 0 hasta lograr posicionar su sitio web en internet</p>
+<ul>
+	<li>
+		Paso 1: Registro de Dominio <a href="#">Ver explicacion</a>
+	</li>
+	<li>Paso 2: Contrato de un Hosting de Calidad <a href="#">Ver explicacion</a>
+	</li>
+	<li>Paso 3: Un diseño adecuado <a href="#">Ver explicacion</a></li>
+	<li>Paso 4: Optimizacion de tu sitio web para buscadores - SEO <a href="#">Ver explicacion</a></li>
+	<li>Paso 5: Promocionar tu sitio - Marketing Online <a href="#">Ver explicacion</a></li>
+</ul>
+
+<h3>Nuestro estrategia en forma gráfica</h3>
+
+<p>(Insertar la infografia de nuestra estrategia</p>
+
+<h3>Alguno de nuestros Clientes</h3>
+<ul>
+	<li>Cliente 01</li>
+	<li>Cliente 02</li>
+	<li>Cliente 03</li>
+</ul>
+<h3>Cuanto cuesta nuestro servicio</h3>
+<p>Contamos con varios paquetes para proponerte, seguramente uno de ellos se adecua a las necesidades de tu negocio</p>
+<ul>
+	<li>Paquete 01 <a href="#">Ver más</a></li>
+	<li>Paquete 02 <a href="#">Ver más</a></li>
+	<li>Paquete 03 <a href="#">Ver más</a></li>
+</ul>
+<p>Si quieres algo más personalizado, por favor contacta con nosotros para una entrevista, gustosos estaremos de atenderte</p>
+<form>
+	Formulario de contacto
+</form>
+
+<h3>Ofertas y Regalos</h3>
+<p>Tener un sitio web es como tener una ventana abierta a todo el mundo. fuente Google</p>
+<p>Es importante que conozcas aspectos basicos de un sitio web exitoso. Por esa razon te regalamos lo siguiente</p>
+<ul>
+	<li>Regalo 01: 10 Reglas de Oro para administrar un sitio web 2.0</li>
+	<li>Regalo 02: Estrategias faciles de implementar para posicionar tu sitio web</li>
+</ul>
+
+<form>Llena este formulario para que te pueda enviar estos preciados regalos y asi puedas empezar tu sitio web</form>
 
 
-</header>
-<nav>
-	<ul>
-		<li><a href="#">Bienvenidos</a></li>
-		<li><a href="#">Registro de Dominios</a></li>
-		<li><a href="#">Hosting Profesional</a></li>
-		<li><a href="#">Diseño y Programación Web</a></li>
-		<li><a href="#">Portafolio</a></li>
+<h3>Quieres aprender mas</h3>
 
-	</ul>
-</nav>
-<div id="slide">
-	Amimación : Lo importante de estar en internet
-	</br>
-	Internet es el mayor mercado del planeta que seguramente estan buscando una empresa como la tuya
-	</br>
-	Tener un sitio web es como inaugurar una tienda de escala mundial gente de todo el mundo puede visitarte
-	</br>
-	Para una empresa no basta con tener un blog o una cuenta en una red social si quieres vender en serioi necesitas un Sitio web empresarial, 
-	</br>
-	Imagite el sitio web empresarial integra, blog, foros, redes sociales, video, correo empresarial, todo trabajando para ti
-	</br> 
-	SEO y Posicionamiento pago para que tu sitio esten en buscadores importantes con palabras clave relevantes
-	</br> 
-	Usamos	Marketing online para promocionar tus productos o servicios
-	</br>
-	Existen varias formas de incluir su empresa en internet Sabe como hacerlo Nosotros si Que estes aqui es prueba de ello Podemos utilizar las mismas técnicas y estrategias para que su empresa o Ud. este en Internet y mejore sus ventas
+<p>Visita nuestro blog oficial, constantemente publicamos articulos tecnologicos que te permitiran estar al dia con la tecnologia web</p>
+<p>O nuestro Canal en Youtube</p>
 
-</div>
-<section id="contenedor">
-	<section id="principal">
-		
+<h3>Has que tu tiempo sea valioso</h3>
+<p>Recuerda que si tu negocio no esta en internet, estas camino a la extinción</p>
+<p>Es un buen momento para empezar...
+</p>
 
-		<article>
-			VIDEO DE PRESENTACION
-		</article>
+<h3>Si tienes alguna pregunta adicional</h3>
+<p>No importa cual fuere... solo haznolas saber llenando el siguiente formulario</p>
 
-	</section>
-	<aside> Formulario de Contacto </aside>
-	
-	<section id="productos">
-		
+<form>Tu pregunta</form>
 
-		<article>
-			lista de nuestros servicios con imagenes
-		</article>
+<p>O Contactanos por las redes sociales, te esperamos</p>
+<ul>
+	<li>facebook</li>
+	<li>twitter	</li>
+</ul>
 
-	</section>
-</section>
-<footer>
-	Menu de opciones
-	Redes sociales
-	Back link
-</footer>
-
-
-
+<p>Gracias por tu visita</p>
 </body>
 </html>
